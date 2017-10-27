@@ -42,4 +42,3 @@ Ahab API - AI for Kubernetes
             - if you do X … the impact on the cluster is Y
             - predictive failure analysis
             - the Ahab data set allows for complete virtual analysis
-rust for k8sos ~ marshall resources, build on generic primitives (e.g. CSI, CNI, CRI, etc.)
